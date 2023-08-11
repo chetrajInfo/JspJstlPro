@@ -161,3 +161,26 @@ public class SpringJspDemoApplication {
 Run the main method in the SpringJspDemoApplication class to start the application. Accessing http://localhost:8080 should display "Hello, World!" using the JSP file.
 
 This setup provides a basic Spring Boot application using JSP, JSTL, and JPA. From here, you can expand on this base, integrating more complex features and entities
+
+
+
+Git Part:
+
+…or create a new repository on the command line
+echo "# JspJstlPro" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chetrajInfo/JspJstlPro.git
+git push -u origin main
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/chetrajInfo/JspJstlPro.git
+git branch -M main
+git push -u origin main
+
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
